@@ -9,6 +9,8 @@ __pycache__/
 
 # Local state written at runtime
 quota.json
+config.json
+config.json.tmp
 *.log
 
 # Secrets / local env (this proxy needs none, but never commit these)
